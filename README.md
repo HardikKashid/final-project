@@ -98,15 +98,4 @@ This system solves that by:
 
 ## 👥 Team
 
-(Add your team name here)
-
----
-
-## 🏆 Hackathon Ready
-
-This project is designed as a functional prototype demonstrating:
-
-* User behavior tracking
-* Burnout detection logic
-* Interactive wellness tools
-* Scalable architecture for future AI integration
+SYNTAX
